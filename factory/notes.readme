@@ -1,0 +1,6 @@
+- it is rearly used in golang to use factory pattern 
+- if we used thiord party package and there is a 
+New() cuntion it would be mostly using factory pattern 
+- it would be better to use it and not to initialize the opject by ourself 
+because it is mostly set initial values in the new function 
+
